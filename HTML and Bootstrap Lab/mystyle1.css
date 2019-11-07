@@ -1,0 +1,19 @@
+h1{
+    font-family: "Calibri Light";
+    color: white;
+    background-color: coral;
+    text-transform: capitalize;
+}
+
+#mycss{
+    font-family: Arial;
+    color: coral;
+    background-color: cornflowerblue;
+}
+
+.xyz{
+    table-border-color-light: coral;
+    border-width: thick;
+    color: white;
+    background-color: cornsilk;
+}
